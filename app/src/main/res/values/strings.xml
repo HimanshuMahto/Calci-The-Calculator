@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calci-The calculator</string>
+    <string name="About">About</string>
+    <string name="About1">About:</string>
+    <string name="more">More</string>
+    <string name="option">Click The Option You Want To Select</string>
+    <string name="principle">Where P is Principle</string>
+    <string name="Rate">Where R is Rate</string>
+    <string name="time">Where n is Time in years</string>
+    <string name="dev">This App is Made Using Android Studio</string>
+    <string name="Dev">Developer:</string>
+    <string name="made">Himanshu Kumar Mahto</string>
+    <string name="abt">This is a simple calculator with</string>
+    <string name="xyz">some features on it like CI, SI</string>
+    <string name="cvb">and many more.</string>
+</resources>
